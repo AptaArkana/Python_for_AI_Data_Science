@@ -71,8 +71,8 @@ Kuasai bahasa Python tingkat lanjut dengan ragam teknik pemrograman yang diperlu
   <p align="justify">Dapat diketahui bahwa 64,1% properti yang disewakan <b>tersedia (sedang kosong)</p>
   <li>Tipe</li>
   <img src="https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/93f64e3d-81bc-4fcc-8499-da8ac1a2e193" alt="Room Tipe" style="max-width: 50%; height: auto;">
-  <p align="justify">Tipe properti yang paling banyak disewakan adalah <b>entire home/apt</p>
+  <p align="justify">Tipe properti yang paling banyak disewakan adalah <b>entire home/apt</b></p>
   <li>Persebaran Harga</li>
   <img src="[https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/178dc467-c52a-495b-b009-2f40344c9992](https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/b22f814a-6d8c-4cd7-bbdc-e7a77fe150de)" alt="Price Histogram" style="max-width: 50%; height: auto;">
-  <p align="justify">Harga properti paling banyak disekitar rentang <b>50-125</p>
+  <p align="justify">Harga properti paling banyak disekitar rentang <b>50-125</b></p>
 </ol>
