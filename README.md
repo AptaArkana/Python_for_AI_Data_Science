@@ -58,9 +58,11 @@ Kuasai bahasa Python tingkat lanjut dengan ragam teknik pemrograman yang diperlu
 <h3>Final Test</h3>
 <p align="justify">Final test menggunakan data open yaitu data airbnb, mendapatkan insight seperti berikut :</p>
 <ol type="1">
-  <li>Pengenalan</li>
-  <p>jasakjsasak</p>
-  <li>Plotting</li>
+  <li>Minimum dan Maximum Harga</li>
+  <p align="justify">Harga minimum adalah 0 dan maximum adalah 10000</p>
+  <li>Rata - Rata Harga</li>
+  <img width="192" alt="image" src="https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/a5a13a74-5510-4900-81e9-3121ee3710aa">
+  <p align="justify"><b>Manhattan</b> adalah wilayah dengan rata rata harga paling tinggi</p>
   <li>Customization</li>
   <li>Subplots</li>
   <li>Diagram</li>
