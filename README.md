@@ -67,12 +67,12 @@ Kuasai bahasa Python tingkat lanjut dengan ragam teknik pemrograman yang diperlu
   <img src="https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/e178506e-597d-4613-9e47-7f0f21b9305c" alt="Total Neighbourhood in Manhattan" style="max-width: 50%; height: auto;">
   <p align="justify"><b>Upper West Side</b> adalah wilayah dengan properi yang paling banyak disewakan</p>
   <li>Ketersediaan</li>
-  ![image](https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/1f365cc0-2a3b-4cb7-a993-d9a7701f06f5)
+  <img src="https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/1f365cc0-2a3b-4cb7-a993-d9a7701f06f5" alt="Availability" style="max-width: 50%; height: auto;">
   <p align="justify">Dapat diketahui bahwa 64,1% properti yang disewakan <b>tersedia (sedang kosong)</p>
   <li>Tipe</li>
-  ![image](https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/93f64e3d-81bc-4fcc-8499-da8ac1a2e193)
+  <img src="https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/93f64e3d-81bc-4fcc-8499-da8ac1a2e193" alt="Room Tipe" style="max-width: 50%; height: auto;">
   <p align="justify">Tipe properti yang paling banyak disewakan adalah <b>entire home/apt</p>
   <li>Persebaran Harga</li>
-  ![image](https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/178dc467-c52a-495b-b009-2f40344c9992)
+  <img src="https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/178dc467-c52a-495b-b009-2f40344c9992" alt="Price Histogram" style="max-width: 50%; height: auto;">
   <p align="justify">Harga properti paling banyak disekitar rentang <b>50-125</p>
 </ol>
