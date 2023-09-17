@@ -64,7 +64,7 @@ Kuasai bahasa Python tingkat lanjut dengan ragam teknik pemrograman yang diperlu
   <img width="192" alt="image" src="https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/a5a13a74-5510-4900-81e9-3121ee3710aa">
   <p align="justify"><b>Manhattan</b> adalah wilayah dengan rata rata harga paling tinggi</p>
   <li>Properti disewakan di Manhattan</li>
-  ![image](https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/e178506e-597d-4613-9e47-7f0f21b9305c)
+  <img src="https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/e178506e-597d-4613-9e47-7f0f21b9305c" alt="Total Neighbourhood in Manhattan" style="max-width: 50%; height: auto;">
   <p align="justify"><b>Upper West Side</b> adalah wilayah dengan properi yang paling banyak disewakan</p>
   <li>Ketersediaan</li>
   ![image](https://github.com/AptaArkana/Python_for_AI_Data_Science/assets/79633073/1f365cc0-2a3b-4cb7-a993-d9a7701f06f5)
